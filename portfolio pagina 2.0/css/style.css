@@ -1,5 +1,5 @@
 body {
-    background-image:url(/img/bogdan-mb0sco-jazzhopcafef-exampleanim.gif);
+    background-image:url(/portfolio\ pagina\ 2.0/img/back.gif);
     animation: color 13s infinite linear;
     text-align: center;
     padding: 2em;
@@ -73,7 +73,7 @@ footer{
     width: 80% ;
     font-size: medium;
     height: 50px;
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.678);
     color: aliceblue;
     
 }
