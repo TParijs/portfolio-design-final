@@ -1,9 +1,10 @@
+@media screen and (max-width: 600px) {
 body {
     background-image:url(/portfolio\ pagina\ 2.0/img/back.gif);
     animation: color 13s infinite linear;
     text-align: center;
     padding: 2em;
-}
+}}
 
 .Container{
     width: 100%;
@@ -78,3 +79,6 @@ footer{
     
 }
 
+html{
+    background-image:url(/portfolio\ pagina\ 2.0/img/back.gif);
+}
